@@ -1,0 +1,10 @@
+Below is a list of tuples as returned by scipy.io.whosmat("example.mat"), one for each array (or other object) in the file. Each tuple contains the name, shape and data type of the array.
+
+[('Temp', (272, 1), 'double'),
+ ('time', (272, 1), 'double'),
+ ('tth', (1, 638), 'double'),
+ ('ekev', (1, 1), 'double'),
+ ('q', (1, 638), 'double'),
+ ('intensity', (272, 638), 'double')]
+
+
