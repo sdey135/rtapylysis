@@ -111,12 +111,10 @@ The example output of `run_rtamap.py` and `run_rtapylysis.py` are included below
 
 ## Example plots
   1. ### RTA map for initial data visualization  
-  
-    ![example_rtamap](https://cloud.githubusercontent.com/assets/20307497/22233758/8e445f52-e1c0-11e6-9e47-bec9bccada86.png)
+  ![example_rtamap](https://cloud.githubusercontent.com/assets/20307497/22233758/8e445f52-e1c0-11e6-9e47-bec9bccada86.png)
 
-  2. ### Analysis of the RTA map 
-   
-    ![example_rtapylysis](https://cloud.githubusercontent.com/assets/20307497/22233772/bd09c084-e1c0-11e6-8961-fc42a37656d0.png)
+  2. ### Analysis of the RTA map
+  ![example_rtapylysis](https://cloud.githubusercontent.com/assets/20307497/22233772/bd09c084-e1c0-11e6-8961-fc42a37656d0.png)
 
 ## Troubleshoot
   1. In case of issues, please make sure that [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git) is residing in the `PYTHONPATH` of your system.
