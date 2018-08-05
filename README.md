@@ -122,9 +122,9 @@ The example output of `run_rtamap.py` and `run_rtapylysis.py` are included below
   1. In case of issues, please make sure that [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git) is residing in the `PYTHONPATH` of your system.
 
 ## References
-1. S. Dey _et al._ to be published in 2017.
-2. [A. Savitzky, M. J. E. Golay, Smoothing and Differentiation of Data by Simplified Least Squares Procedures, Analytical Chemistry, 1964, 36 (8), pp 1627-1639](https://dx.doi.org/10.1021/ac60214a047).
-3. [Numerical Recipes 3rd Edition: The Art of Scientific Computing, W.H. Press, S.A. Teukolsky, W.T. Vetterling, B.P. Flannery, Cambridge University Press ISBN-13: 9780521880688](http://dl.acm.org/citation.cfm?id=1403886).
+1. Dey, Sonal, Kai-Hung Yu, Steven Consiglio, Kandabara Tapily, Takahiro Hakamata, Cory S. Wajda, Gert J. Leusink, et al. “Atomic Layer Deposited Ultrathin Metal Nitride Barrier Layers for Ruthenium Interconnect Applications.” Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films 35, no. 3 (May 2017): 03E109. https://doi.org/10.1116/1.4979709.
+2. Savitzky, Abraham., and M. J. E. Golay. “Smoothing and Differentiation of Data by Simplified Least Squares Procedures.” Analytical Chemistry 36, no. 8 (July 1, 1964): 1627–39. https://doi.org/10.1021/ac60214a047.
+3. Press, William H., Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery. Numerical Recipes 3rd Edition: The Art of Scientific Computing. 3 edition. Cambridge, UK ; New York: Cambridge University Press, 2007.
 4. [_detect_peaks_](https://github.com/demotu/BMC/blob/master/notebooks/DetectPeaks.ipynb), written by [**Marcos Duarte**](https://github.com/demotu), has been included with [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git).
 5. [PeakUtils](http://pythonhosted.org/PeakUtils/).
 6. [scipy](https://www.scipy.org/).
