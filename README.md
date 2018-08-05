@@ -42,12 +42,12 @@ $ pip install --user rtapylysis
 * Change present working directory to **_TARGET_** by using the following command from terminal `cd $TARGET` (replace $TARGET with **_TARGET_** path). Then use the following commands to run the example scripts:
 
   * Obtain the RTA map for example.mat file contained inside **_$TARGET/example/_**
-  ```
+```
 $ python run_rtamap.py 
 ```
 
   * Obtain the RTA analysis for example.mat file contained inside **_$TARGET/example/_**
-  ```
+```
 $ python run_rtapylysis.py 
 ```
   Note: Any previous files with same name as **_example_rtamap.png_** and **_example_rtapylysis.png_** inside the present working directory will be overwritten without any prompt upon execution of the above python scripts.
