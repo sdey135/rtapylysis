@@ -1,5 +1,5 @@
 # rtapylysis
-#### Updated to _version 0.3_: 2017-01-24
+#### Updated to _version 0.4_: 2017-01-24
 > [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git) is a data-analysis tool written in *Python 2.7.12* for fast analysis of big datasets collected by **synchrotron rapid thermal annealing (_RTA_) X-ray diffraction (_XRD_) experiments**. 
 > This README file is intended for someone who may use the functions inside [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git) for analyzing similar kinds of synchrotron RTA data. [**_rtapylysis_**](https://github.com/sdey135/rtapylysis.git) has been tested on Linux, Mac, and Windows OS.
 
