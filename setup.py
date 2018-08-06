@@ -11,7 +11,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='rtapylysis',
-    version='0.4',
+    version='0.41',
     description='Synchrotorn Rapid Thermal Annealing (RTA) X-ray Diffraction (XRD) Data Analysis Project',
     long_description=long_description,
     url='https://github.com/sdey135/rtapylysis',
